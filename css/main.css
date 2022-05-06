@@ -232,12 +232,13 @@ nav ul li a{
 .s4 .section_size .portfolio:nth-child(4n){
     margin-right: 0;
 }
-.s4 .section_size .portfolio .portfolio_img{
-    border: 1px solid red;
+
+.s4 .section_size .portfolio .portfolio_img img{
     width: 97px;
     height: 97px;
     border-radius: 30px;
     margin-bottom: 15px;
+    box-shadow:0px 0px 10px rgb(155, 155, 155, 0.5);
 }
 .s4 .section_size .portfolio strong{
     font-family: 'Pretendard-Regular';
