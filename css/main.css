@@ -268,7 +268,7 @@ nav ul li a{
     .s2 .section_size{
         max-width: 80%;
         margin: 0 auto;
-        margin-top: 35%;
+        margin-top: 6vh;
     }
     .s2 .section_size .about img{
         width: 85px;
@@ -410,7 +410,7 @@ nav ul li a{
     }
     .s3 .section_size{
         max-width: 80%;
-        margin: 35% auto 0 auto;
+        margin: 6vh auto 0 auto;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -728,7 +728,7 @@ nav ul li a{
     }
     .s5 .section_size{
         max-width:95%;
-        margin: 50% auto 0 auto;
+        margin: 7vh auto 0 auto;
         display: flex;
         flex-direction: column;
         justify-content: center;
