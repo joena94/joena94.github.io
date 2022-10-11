@@ -50,7 +50,7 @@ nav ul li a{
     nav{
         max-width: 60%;
         margin: 0 auto;
-        padding: 2.25rem 0;
+        padding: 1.25rem 0;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
@@ -256,6 +256,7 @@ nav ul li a{
 }
 @media screen and (min-width:320px) and (max-width:499px){
     .s2 h2{
+        display: none;
         position: absolute;
         top: 18vh;
         font-family: 'Mont';
@@ -397,6 +398,7 @@ nav ul li a{
 }
 @media screen and (min-width:320px) and (max-width:600px){
     .s3 h2{
+        display: none;
         position: absolute;
         top: 18vh;
         font-family: 'Mont';
@@ -540,6 +542,7 @@ nav ul li a{
 }
 @media screen and (min-width:320px) and (max-width:600px){
     .s4 h2{
+        display: none;
         position: absolute;
         top: 18vh;
         font-family: 'Mont';
@@ -551,7 +554,7 @@ nav ul li a{
     }
     .s4 .section_size{
         max-width:95%;
-        margin: 25% auto 0 auto;
+        margin: 0 auto;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -683,6 +686,7 @@ nav ul li a{
 }
 @media screen and (min-width:320px) and (max-width:788px){
     .s5 h2{
+        display: none;
         position: absolute;
         top: 17vh;
         font-family: 'Mont';
