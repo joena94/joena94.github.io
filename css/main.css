@@ -50,19 +50,19 @@ nav ul li a{
     nav{
         max-width: 60%;
         margin: 0 auto;
-        padding: 1.25rem 0;
+        padding: 0.8rem 0;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
     }
     nav .logo{
         text-align: center;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
     }
     nav .logo a{
         color: white;
         text-decoration: none;
-        font-size:1.8rem;
+        font-size:1rem;
     }
     nav ul{
         list-style: none;
@@ -71,9 +71,10 @@ nav ul li a{
         justify-content: center;
     }
     nav ul li a{
-    padding: 1em;
+    padding: 0.6rem;
     color:white;
     text-decoration: none;
+    font-size: 0.8rem;
     }
 }
 
